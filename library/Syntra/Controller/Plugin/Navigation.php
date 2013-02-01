@@ -15,6 +15,7 @@ class Syntra_Controller_Plugin_Navigation extends Zend_Controller_Plugin_Abstrac
             array('label' => 'Home', 'action' => 'index', 'controller' => 'index' ,'params' => array()),
             array('label' => 'Producten', 'action' => 'producten', 'controller' => 'index' ,'params' => array()),
             array('label' => 'Contact', 'action' => 'index', 'controller' => 'Contact' ,'params' => array()),
+            array('label' => 'News', 'action' => 'index', 'controller' => 'News' ,'params' => array()),
             array('label' => 'Sitemap', 'action' => 'sitemap', 'controller' => 'index' ,'params' => array()),
         );    
             

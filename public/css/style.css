@@ -2,6 +2,6 @@
 body{background: #999;color:#ccc;}
 #container{margin: 0 auto; width: 800px;}
 header #logo{float: left; width:200px;}
-header nav {float: left; width:100px; margin-top: 100px;}
+header nav {float: left; width:90px; margin-top: 100px;}
 #content {float: left;width: 800px;}
 nav ul li {display:inline; }
